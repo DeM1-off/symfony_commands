@@ -1,4 +1,4 @@
-# symfony commands
+# Symfony commands
 Have 2 command
 CompanyEmployee -- company:employee {argument('name')}
 EmployeeCan -- employee:can {argument('name),argument('can')}
