@@ -10,7 +10,7 @@ tester,programmer,manager,designer
 Each of them can do something, but something does not.
 
 
-# Create services and traits in my work
+# Services and traits
 src/Service/
 src/Service/CompanyTrait
 
